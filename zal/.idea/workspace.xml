@@ -5,12 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28ec141d-feb3-49c8-8e10-954d7dac6554" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../zal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zal/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../zal/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zal/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zal/src/main/java/zalicz/jeden.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
